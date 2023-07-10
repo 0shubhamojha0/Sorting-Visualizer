@@ -1,5 +1,6 @@
 # Sorting-visualizer
-This website is to visualise the sorting algorithms using javascript .
+This website is to visualise the sorting algorithms using javascript .</br>
+[Click here to visit the site.](https://0shubhamojha0.github.io/Sorting-visualizer/)
 # Features:
 - New array
 - Arrray size
